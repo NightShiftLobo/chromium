@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "NightShift Lobo - Dawn Web Contrast",
+  "version": "1.0.0",
+  "description": "Softens harsh white website backgrounds for the NightShift Lobo Dawn theme.",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "content.css"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

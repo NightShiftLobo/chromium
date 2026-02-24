@@ -1,0 +1,66 @@
+:root[data-nsl-dawn-contrast="on"] {
+  --nsl-dawn-bg: #f4f1e8;
+  --nsl-dawn-surface: #e9e4d8;
+  --nsl-dawn-surface-2: #ded7c8;
+  --nsl-dawn-fg: #2e3440;
+  --nsl-dawn-fg-muted: #4c5568;
+  --nsl-dawn-link: #4c5568;
+  --nsl-dawn-on-dark: #f4f1e8;
+  --nsl-dawn-on-dark-link: #e9e4d8;
+  --nsl-dawn-border: #c4bba8;
+}
+
+:root[data-nsl-dawn-contrast="on"],
+:root[data-nsl-dawn-contrast="on"] body {
+  background-color: var(--nsl-dawn-bg) !important;
+  color: var(--nsl-dawn-fg) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] a {
+  color: var(--nsl-dawn-link) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] a:visited,
+:root[data-nsl-dawn-contrast="on"] a:hover,
+:root[data-nsl-dawn-contrast="on"] a:active {
+  color: var(--nsl-dawn-link) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-dark-bg="on"] {
+  color: var(--nsl-dawn-on-dark) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-dark-bg="on"] a,
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-dark-bg="on"] a:visited,
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-dark-bg="on"] a:hover,
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-dark-bg="on"] a:active {
+  color: var(--nsl-dawn-on-dark-link) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-bg="base"] {
+  background-color: var(--nsl-dawn-bg) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-bg="panel"] {
+  background-color: var(--nsl-dawn-surface) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-bg="control"] {
+  background-color: var(--nsl-dawn-surface-2) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-border="on"] {
+  border-color: var(--nsl-dawn-border) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-fg="muted"] {
+  color: var(--nsl-dawn-fg-muted) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] input,
+:root[data-nsl-dawn-contrast="on"] textarea,
+:root[data-nsl-dawn-contrast="on"] select,
+:root[data-nsl-dawn-contrast="on"] button {
+  border-color: var(--nsl-dawn-border) !important;
+  color: var(--nsl-dawn-fg) !important;
+}

@@ -1,0 +1,146 @@
+{
+  "manifest_version": 3,
+  "name": "NightShift Lobo - Obsidian",
+  "version": "1.0.0",
+  "description": "NightShift Lobo Obsidian theme - Precision Dark. Engineered Focus.",
+  "theme": {
+    "colors": {
+      "frame": [
+        20,
+        24,
+        33
+      ],
+      "frame_inactive": [
+        27,
+        32,
+        43
+      ],
+      "frame_incognito": [
+        27,
+        32,
+        43
+      ],
+      "toolbar": [
+        27,
+        32,
+        43
+      ],
+      "toolbar_text": [
+        217,
+        222,
+        234
+      ],
+      "toolbar_button_icon": [
+        192,
+        201,
+        223
+      ],
+      "tab_background_text": [
+        184,
+        192,
+        212
+      ],
+      "tab_text": [
+        204,
+        211,
+        226
+      ],
+      "tab_selected": [
+        34,
+        40,
+        56
+      ],
+      "tab_selected_text": [
+        217,
+        222,
+        234
+      ],
+      "bookmark_text": [
+        217,
+        222,
+        234
+      ],
+      "omnibox_background": [
+        34,
+        40,
+        56
+      ],
+      "omnibox_text": [
+        217,
+        222,
+        234
+      ],
+      "omnibox_border": [
+        53,
+        60,
+        80
+      ],
+      "button_background": [
+        53,
+        60,
+        80
+      ],
+      "ntp_background": [
+        20,
+        24,
+        33
+      ],
+      "ntp_text": [
+        217,
+        222,
+        234
+      ],
+      "ntp_link": [
+        95,
+        119,
+        209
+      ],
+      "ntp_header": [
+        217,
+        222,
+        234
+      ],
+      "ntp_section": [
+        27,
+        32,
+        43
+      ],
+      "ntp_section_text": [
+        217,
+        222,
+        234
+      ],
+      "ntp_section_link": [
+        95,
+        119,
+        209
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.57,
+        0.04,
+        0.07
+      ],
+      "frame": [
+        0.57,
+        0.03,
+        0.05
+      ],
+      "frame_inactive": [
+        0.57,
+        0.02,
+        0.1
+      ]
+    },
+    "properties": {
+      "color_scheme": "dark"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
