@@ -114,6 +114,181 @@
         92,
         115,
         199
+      ],
+      "frame_incognito_inactive": [
+        13,
+        16,
+        22
+      ],
+      "toolbar_field": [
+        26,
+        31,
+        44
+      ],
+      "toolbar_field_text": [
+        212,
+        216,
+        228
+      ],
+      "toolbar_field_border": [
+        44,
+        51,
+        68
+      ],
+      "toolbar_field_focus": [
+        26,
+        31,
+        44
+      ],
+      "toolbar_field_text_focus": [
+        212,
+        216,
+        228
+      ],
+      "toolbar_field_border_focus": [
+        92,
+        115,
+        199
+      ],
+      "toolbar_field_separator": [
+        44,
+        51,
+        68
+      ],
+      "omnibox_results_bg": [
+        19,
+        23,
+        34
+      ],
+      "omnibox_results_text": [
+        212,
+        216,
+        228
+      ],
+      "omnibox_results_url": [
+        92,
+        115,
+        199
+      ],
+      "omnibox_results_selected_bg": [
+        26,
+        31,
+        44
+      ],
+      "omnibox_results_selected_text": [
+        212,
+        216,
+        228
+      ],
+      "omnibox_results_selected_url": [
+        92,
+        115,
+        199
+      ],
+      "popup": [
+        19,
+        23,
+        34
+      ],
+      "popup_text": [
+        212,
+        216,
+        228
+      ],
+      "popup_border": [
+        44,
+        51,
+        68
+      ],
+      "popup_highlight": [
+        26,
+        31,
+        44
+      ],
+      "popup_highlight_text": [
+        212,
+        216,
+        228
+      ],
+      "side_panel_background": [
+        19,
+        23,
+        34
+      ],
+      "side_panel_foreground": [
+        212,
+        216,
+        228
+      ],
+      "side_panel_border": [
+        44,
+        51,
+        68
+      ],
+      "bookmark_bar": [
+        19,
+        23,
+        34
+      ],
+      "toolbar_top_separator": [
+        44,
+        51,
+        68
+      ],
+      "toolbar_bottom_separator": [
+        44,
+        51,
+        68
+      ],
+      "tab_separator": [
+        44,
+        51,
+        68
+      ],
+      "tab_line": [
+        92,
+        115,
+        199
+      ],
+      "tab_loading": [
+        92,
+        115,
+        199
+      ],
+      "tab_group_frame": [
+        44,
+        51,
+        68
+      ],
+      "tab_group_text": [
+        212,
+        216,
+        228
+      ],
+      "tab_group_frame_inactive": [
+        28,
+        34,
+        48
+      ],
+      "tab_group_text_inactive": [
+        174,
+        181,
+        200
+      ],
+      "tab_alert_audio": [
+        92,
+        115,
+        199
+      ],
+      "tab_alert_recording": [
+        92,
+        115,
+        199
+      ],
+      "tab_alert_pip_playing": [
+        92,
+        115,
+        199
       ]
     },
     "tints": {
