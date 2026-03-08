@@ -67,6 +67,18 @@ If you modify any extension files:
 2. Click **Reload** on the updated extension card.
 3. Refresh affected website tabs.
 
+## Palette Sync
+
+Theme manifests are generated from the shared palette in `../palette/palette.source.json`.
+
+Run:
+
+```bash
+node scripts/sync_themes.mjs
+```
+
+after palette changes to keep all Chromium themes aligned.
+
 ## Switch Between Flavours
 
 1. Return to `chrome://extensions`.

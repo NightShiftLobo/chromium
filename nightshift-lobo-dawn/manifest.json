@@ -16,9 +16,9 @@
         200
       ],
       "toolbar": [
-        222,
-        215,
-        200
+        233,
+        228,
+        216
       ],
       "toolbar_text": [
         46,
@@ -26,19 +26,19 @@
         64
       ],
       "toolbar_button_icon": [
-        59,
-        66,
-        82
+        76,
+        85,
+        104
       ],
       "tab_background_text": [
-        92,
-        100,
-        115
+        108,
+        115,
+        133
       ],
       "tab_text": [
-        58,
-        65,
-        80
+        76,
+        85,
+        104
       ],
       "tab_selected": [
         244,
@@ -71,9 +71,9 @@
         168
       ],
       "button_background": [
-        196,
-        187,
-        168
+        222,
+        215,
+        200
       ],
       "ntp_background": [
         244,
@@ -141,9 +141,9 @@
         219
       ],
       "toolbar_field_separator": [
-        196,
-        187,
-        168
+        222,
+        215,
+        200
       ],
       "omnibox_results_bg": [
         233,
@@ -221,19 +221,19 @@
         216
       ],
       "toolbar_top_separator": [
-        196,
-        187,
-        168
+        222,
+        215,
+        200
       ],
       "toolbar_bottom_separator": [
-        196,
-        187,
-        168
+        222,
+        215,
+        200
       ],
       "tab_separator": [
-        196,
-        187,
-        168
+        222,
+        215,
+        200
       ],
       "tab_line": [
         79,
@@ -256,14 +256,14 @@
         64
       ],
       "tab_group_frame_inactive": [
-        210,
-        202,
-        186
+        222,
+        215,
+        200
       ],
       "tab_group_text_inactive": [
-        76,
-        85,
-        104
+        108,
+        115,
+        133
       ],
       "tab_alert_audio": [
         79,
@@ -284,18 +284,18 @@
     "tints": {
       "buttons": [
         0.6,
-        0.03,
-        0.92
+        0.02,
+        0.94
       ],
       "frame": [
         0.6,
-        0.02,
-        0.95
+        0.01,
+        0.96
       ],
       "frame_inactive": [
         0.6,
         0.01,
-        0.9
+        0.92
       ]
     },
     "properties": {

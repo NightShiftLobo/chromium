@@ -31,19 +31,19 @@
         228
       ],
       "toolbar_button_icon": [
-        188,
-        196,
-        218
+        158,
+        166,
+        189
       ],
       "tab_background_text": [
-        174,
-        181,
-        200
+        124,
+        133,
+        158
       ],
       "tab_text": [
-        198,
-        204,
-        221
+        158,
+        166,
+        189
       ],
       "tab_selected": [
         26,
@@ -76,9 +76,9 @@
         68
       ],
       "button_background": [
-        44,
-        51,
-        68
+        34,
+        40,
+        55
       ],
       "ntp_background": [
         13,
@@ -91,9 +91,9 @@
         228
       ],
       "ntp_link": [
-        92,
-        115,
-        199
+        111,
+        136,
+        230
       ],
       "ntp_header": [
         212,
@@ -111,14 +111,9 @@
         228
       ],
       "ntp_section_link": [
-        92,
-        115,
-        199
-      ],
-      "frame_incognito_inactive": [
-        13,
-        16,
-        22
+        111,
+        136,
+        230
       ],
       "toolbar_field": [
         26,
@@ -146,14 +141,14 @@
         228
       ],
       "toolbar_field_border_focus": [
-        92,
-        115,
-        199
+        124,
+        147,
+        242
       ],
       "toolbar_field_separator": [
-        44,
-        51,
-        68
+        34,
+        40,
+        55
       ],
       "omnibox_results_bg": [
         19,
@@ -166,14 +161,14 @@
         228
       ],
       "omnibox_results_url": [
-        92,
-        115,
-        199
+        111,
+        136,
+        230
       ],
       "omnibox_results_selected_bg": [
-        26,
-        31,
-        44
+        38,
+        48,
+        69
       ],
       "omnibox_results_selected_text": [
         212,
@@ -181,9 +176,9 @@
         228
       ],
       "omnibox_results_selected_url": [
-        92,
-        115,
-        199
+        111,
+        136,
+        230
       ],
       "popup": [
         19,
@@ -201,9 +196,9 @@
         68
       ],
       "popup_highlight": [
-        26,
-        31,
-        44
+        38,
+        48,
+        69
       ],
       "popup_highlight_text": [
         212,
@@ -231,29 +226,29 @@
         34
       ],
       "toolbar_top_separator": [
-        44,
-        51,
-        68
+        34,
+        40,
+        55
       ],
       "toolbar_bottom_separator": [
-        44,
-        51,
-        68
+        34,
+        40,
+        55
       ],
       "tab_separator": [
-        44,
-        51,
-        68
+        34,
+        40,
+        55
       ],
       "tab_line": [
-        92,
-        115,
-        199
+        124,
+        147,
+        242
       ],
       "tab_loading": [
-        92,
-        115,
-        199
+        111,
+        136,
+        230
       ],
       "tab_group_frame": [
         44,
@@ -266,45 +261,50 @@
         228
       ],
       "tab_group_frame_inactive": [
-        28,
         34,
-        48
+        40,
+        55
       ],
       "tab_group_text_inactive": [
-        174,
-        181,
-        200
+        124,
+        133,
+        158
       ],
       "tab_alert_audio": [
-        92,
-        115,
-        199
+        111,
+        136,
+        230
       ],
       "tab_alert_recording": [
-        92,
-        115,
-        199
+        111,
+        136,
+        230
       ],
       "tab_alert_pip_playing": [
-        92,
-        115,
-        199
+        111,
+        136,
+        230
+      ],
+      "frame_incognito_inactive": [
+        13,
+        16,
+        22
       ]
     },
     "tints": {
       "buttons": [
-        0.56,
-        0.04,
-        0.06
+        0.58,
+        0.02,
+        0.08
       ],
       "frame": [
-        0.56,
-        0.03,
+        0.58,
+        0.02,
         0.04
       ],
       "frame_inactive": [
-        0.56,
-        0.02,
+        0.58,
+        0.01,
         0.08
       ]
     },
