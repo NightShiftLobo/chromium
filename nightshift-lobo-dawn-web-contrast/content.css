@@ -4,7 +4,10 @@
   --nsl-dawn-surface-2: #ded7c8;
   --nsl-dawn-fg: #2e3440;
   --nsl-dawn-fg-muted: #4c5568;
-  --nsl-dawn-link: #4c5568;
+  --nsl-dawn-fg-subtle: #6c7385;
+  --nsl-dawn-link: #4f6edb;
+  --nsl-dawn-link-soft: #6c83d6;
+  --nsl-dawn-selection: #d6cebd;
   --nsl-dawn-on-dark: #f4f1e8;
   --nsl-dawn-on-dark-link: #e9e4d8;
   --nsl-dawn-border: #c4bba8;
@@ -23,7 +26,12 @@
 :root[data-nsl-dawn-contrast="on"] a:visited,
 :root[data-nsl-dawn-contrast="on"] a:hover,
 :root[data-nsl-dawn-contrast="on"] a:active {
-  color: var(--nsl-dawn-link) !important;
+  color: var(--nsl-dawn-link-soft) !important;
+}
+
+:root[data-nsl-dawn-contrast="on"] ::selection {
+  background-color: var(--nsl-dawn-selection) !important;
+  color: var(--nsl-dawn-fg) !important;
 }
 
 :root[data-nsl-dawn-contrast="on"] [data-nsl-dawn-dark-bg="on"] {
@@ -57,10 +65,20 @@
   color: var(--nsl-dawn-fg-muted) !important;
 }
 
+:root[data-nsl-dawn-contrast="on"] input:focus-visible,
+:root[data-nsl-dawn-contrast="on"] textarea:focus-visible,
+:root[data-nsl-dawn-contrast="on"] select:focus-visible,
+:root[data-nsl-dawn-contrast="on"] button:focus-visible,
+:root[data-nsl-dawn-contrast="on"] a:focus-visible {
+  outline: 1px solid var(--nsl-dawn-link-soft) !important;
+  outline-offset: 1px !important;
+}
+
 :root[data-nsl-dawn-contrast="on"] input,
 :root[data-nsl-dawn-contrast="on"] textarea,
 :root[data-nsl-dawn-contrast="on"] select,
 :root[data-nsl-dawn-contrast="on"] button {
   border-color: var(--nsl-dawn-border) !important;
   color: var(--nsl-dawn-fg) !important;
+  box-shadow: none !important;
 }
